@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Versions currentVersionID="16.19b">
-	<Version versionID="16.19b" releaseDate="2020-01-09T00:00:00">	
+	<Version versionID="16.19b" releaseDate="2020-01-09T00:00:00">	<!-- Version Bilgisi eskisi gibi versionID kısmından gelebilir. -->
 		<Pages> 
 			<Group title="E-Donusum"><!-- Sayfada en solda gruplama yapılacak alan için title içine yazabiliriz. -->
 				<Content>
