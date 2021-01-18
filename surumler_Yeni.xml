@@ -2,39 +2,39 @@
 <Versions currentVersionID="16.19b">
 	<Version versionID="16.19b" releaseDate="2020-01-09T00:00:00">	<!-- Version Bilgisi eskisi gibi versionID kısmından gelebilir. -->
 		<Pages> 
-			<Group title="E-Donusum" icon="https://www.mikro.com.tr/Frontend/dist/images/yenilikler-tablosu/perakende-icon.png"><!-- Sayfada en solda gruplama yapılacak alan için title içine yazabiliriz. -->
-				<Content>
+			<Group title="E-Donusum" icon="https://www.mikro.com.tr/Frontend/dist/images/yenilikler-tablosu/perakende-icon.png"><!-- Sayfada en solda gruplama yapılacak alan için title içine yazabilir. -->
+				<Content>												    <!-- Icon bilgisi dosyanın tam yolu olarak girilebilir. -->
 					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header> <!-- Video alanında bulunan başlık bilgisi -->
 					<Video>https://youtu.be/RWB1yJb_aeA</Video> <!-- Video url'i -->
 					<Run>True</Run> 
 					<Jump>True</Jump>
-					<Fly>False</Fly>	<!-- Run-Fly-Jump-Musavir için bool değer verilerek sayfada check olan kısım belirtilebilir. -->
+					<Fly>False</Fly>	 <!-- Run-Fly-Jump-Musavir için bool değer verilerek sayfada check olan kısım belirtilebilir. -->
+					<Musavir>True</Musavir>
+					<Yenilik>False</Yenilik>
+					<Mevzuat>False</Mevzuat> <!-- Başlık alanının yanında  Yenilik, Mevzuat, Güncelleme icon'larından hangisi gözükecekse o özellik bool olarak true yapılabilir. -->
+					<Guncelleme>True</Guncelleme>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+					<Yenilik>False</Yenilik>
+					<Mevzuat>True</Mevzuat>
+					<Guncelleme>False</Guncelleme>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
 					<Musavir>True</Musavir>
 					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
-				</Content>
-				<Content>
-					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
-					<Video>https://youtu.be/RWB1yJb_aeA</Video>
-					<Run>True</Run>
-					<Jump>True</Jump>
-					<Fly>False</Fly>
-					<Musavir>True</Musavir>
-					<Yenilik>False</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
-				</Content>
-				<Content>
-					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
-					<Video>https://youtu.be/RWB1yJb_aeA</Video>
-					<Run>True</Run>
-					<Jump>True</Jump>
-					<Fly>False</Fly>
-					<Musavir>True</Musavir>
-					<Yenilik>False</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
+					<Mevzuat>False</Mevzuat>
+					<Guncelleme>False</Guncelleme>
 				</Content>
 			</Group>
 			<Group title="Mevzuat" icon="https://www.mikro.com.tr/Frontend/dist/images/yenilikler-tablosu/perakende-icon.png">
@@ -45,8 +45,8 @@
 					<Jump>True</Jump>
 					<Fly>False</Fly>
 					<Musavir>True</Musavir>
-					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
+					<Yenilik>False</Yenilik>
+					<Mevzuat>False</Mevzuat>
 					<Guncelleme>True</Guncelleme>
 				</Content>
 				<Content>
@@ -57,8 +57,8 @@
 					<Fly>False</Fly>
 					<Musavir>True</Musavir>
 					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
+					<Mevzuat>False</Mevzuat>
+					<Guncelleme>False</Guncelleme>
 				</Content>						
 			</Group>
 		</Pages>	
@@ -73,9 +73,20 @@
 					<Jump>True</Jump>
 					<Fly>False</Fly>
 					<Musavir>True</Musavir>
-					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
+					<Yenilik>False</Yenilik>
+					<Mevzuat>False</Mevzuat>
 					<Guncelleme>True</Guncelleme>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>False</Musavir>
+					<Yenilik>False</Yenilik>
+					<Mevzuat>True</Mevzuat>
+					<Guncelleme>False</Guncelleme>
 				</Content>
 				<Content>
 					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
@@ -85,19 +96,8 @@
 					<Fly>False</Fly>
 					<Musavir>True</Musavir>
 					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
-				</Content>
-				<Content>
-					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
-					<Video>https://youtu.be/RWB1yJb_aeA</Video>
-					<Run>True</Run>
-					<Jump>True</Jump>
-					<Fly>False</Fly>
-					<Musavir>True</Musavir>
-					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
+					<Mevzuat>False</Mevzuat>
+					<Guncelleme>False</Guncelleme>
 				</Content>
 			</Group>
 			<Group title="Mevzuat" icon="https://www.mikro.com.tr/Frontend/dist/images/yenilikler-tablosu/perakende-icon.png">
@@ -109,8 +109,8 @@
 					<Fly>False</Fly>
 					<Musavir>True</Musavir>
 					<Yenilik>True</Yenilik>
-					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
+					<Mevzuat>False</Mevzuat>
+					<Guncelleme>False</Guncelleme>
 				</Content>
 				<Content>
 					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
@@ -121,7 +121,7 @@
 					<Musavir>True</Musavir>
 					<Yenilik>False</Yenilik>
 					<Mevzuat>True</Mevzuat>
-					<Guncelleme>True</Guncelleme>
+					<Guncelleme>False</Guncelleme>
 				</Content>						
 			</Group>		
 		</Pages>				
