@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Versions currentVersionID="16.19b">
+	<Version versionID="16.19b" releaseDate="2020-01-09T00:00:00">	
+		<Pages> 
+			<Page title="E-Donusum">
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+			</Page>
+			<Page title="Mevzuat">
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>						
+			</Page>
+			<Page title="Mevzuat">
+				<Content language="T" icon="Muhasebe" clientGroup="MF">
+					<Header>Defter beyan düzenlemeleri yapıldı.</Header>
+					<Body>Müşavir programından defter beyan sistemine işletme gelir gider hareketlerinin aktarımında, mükellefin firma tanıtım kartında T.C. Kimlik tanımlı olmadığında gönderim sağlanmıştır.</Body>
+					<Video>https://youtu.be/dzvuyq7LOhU</Video>	
+					<Jira>MDSK-11341</Jira>		
+					<crm>1234123</crm>				
+				</Content>			
+			</Page>
+		</Pages>	
+	</Version>
+	<Version versionID="16.19a" releaseDate="2019-12-02T00:00:00">	
+		<Pages> 
+			<Page title="E-Donusum">
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+			</Page>
+			<Page title="Mevzuat">
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>
+				<Content>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
+					<Video>https://youtu.be/RWB1yJb_aeA</Video>
+					<Run>True</Run>
+					<Jump>True</Jump>
+					<Fly>False</Fly>
+					<Musavir>True</Musavir>
+				</Content>						
+			</Page>
+			<Page title="Mevzuat">
+				<Content language="T" icon="Muhasebe" clientGroup="MF">
+					<Header>Defter beyan düzenlemeleri yapıldı.</Header>
+					<Body>Müşavir programından defter beyan sistemine işletme gelir gider hareketlerinin aktarımında, mükellefin firma tanıtım kartında T.C. Kimlik tanımlı olmadığında gönderim sağlanmıştır.</Body>
+					<Video>https://youtu.be/dzvuyq7LOhU</Video>	
+					<Jira>MDSK-11341</Jira>		
+					<crm>1234123</crm>				
+				</Content>			
+			</Page>		
+		</Pages>				
+	</Version>
+</Versions>
