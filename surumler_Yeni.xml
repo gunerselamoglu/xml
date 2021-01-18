@@ -4,11 +4,11 @@
 		<Pages> 
 			<Group title="E-Donusum"><!-- Sayfada en solda gruplama yapılacak alan için title içine yazabiliriz. -->
 				<Content>
-					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header>
-					<Video>https://youtu.be/RWB1yJb_aeA</Video>
-					<Run>True</Run>
+					<Header>Özel matrah işlemlerinde düzenleme yapıldı.</Header> <!-- Video alanında bulunan başlık bilgisi -->
+					<Video>https://youtu.be/RWB1yJb_aeA</Video> <!-- Video url'i -->
+					<Run>True</Run> 
 					<Jump>True</Jump>
-					<Fly>False</Fly>
+					<Fly>False</Fly>	<!-- Run-Fly-Jump-Musavir için bool değer verilerek sayfada check olan kısım belirtilebilir. -->
 					<Musavir>True</Musavir>
 				</Content>
 				<Content>
